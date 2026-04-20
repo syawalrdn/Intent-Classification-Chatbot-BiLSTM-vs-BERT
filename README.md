@@ -1,2 +1,10 @@
-# Intent-Classification-Chatbot-BiLSTM-vs-BERT
-Aplikasi ini membandingkan dua model intent classification, yaitu BiLSTM dan BERT. Keduanya memprediksi intent dari kalimat yang dimasukkan pengguna, lalu menampilkan confidence score dan top-k intent paling mungkin.
+# Versi Light + Sidebar
+
+Perubahan:
+- tema cerah
+- menu dipindah ke sidebar kiri dengan `st.sidebar.radio(...)`
+
+## Menjalankan lokal
+```bash
+python -m streamlit run app.py
+```

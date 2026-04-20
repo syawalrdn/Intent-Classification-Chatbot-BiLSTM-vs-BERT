@@ -1,7 +1,0 @@
-streamlit>=1.36
-tensorflow>=2.15
-torch>=2.2
-transformers>=4.40
-safetensors>=0.4
-pandas>=2.0
-numpy>=1.26
